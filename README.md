@@ -6,10 +6,10 @@
 
 <h3 align="left">You can find me on all of thios places:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/raphael-resende-breitschaft-426685163/" target="blank"><img align="left"
+  <a href="https://www.linkedin.com/in/raphael-resende-breitschaft-426685163/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/raphael.breitschaft" target="blank"><img align="right"
+  <a href="https://www.facebook.com/raphael.breitschaft" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt=" height="30" width="40" /></a>
   <a href="https://www.instagram.com/batuta_rb/" target="blank"><img align="center"
@@ -23,15 +23,15 @@
 
 
 
-<h3>EProfile statistics:</h3>
-<p><img align="center"
+<h3>Profile statistics:</h3>
+<p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=raphael-rbbr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="raphael-rbbr"
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphael-rbbr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=raphael-rbbr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="raphael-rbbr" /></p>
 
 <br>
