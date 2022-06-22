@@ -41,7 +41,7 @@
 <br>
 
 <h3>Profile statistics:</h3>
-<p><img align="left" width="40%"
+<p><img align="left" width="50%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=raphael-rbbr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="raphael-rbbr"
     bg_color=#808080/></p>
