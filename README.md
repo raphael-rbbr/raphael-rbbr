@@ -4,12 +4,12 @@
 <br>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can find me on all of thios places:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/raphael-resende-breitschaft-426685163/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/raphael-resende-breitschaft-426685163/" target="blank"><img align="left"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/raphael.breitschaft" target="blank"><img align="center"
+  <a href="https://www.facebook.com/raphael.breitschaft" target="blank"><img align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt=" height="30" width="40" /></a>
   <a href="https://www.instagram.com/batuta_rb/" target="blank"><img align="center"
@@ -20,13 +20,10 @@
       alt="" height="30" width="40" /></a>
 </p>
 
-## Contact me
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/raphael-resende-breitschaft-426685163/)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/batuta_rb)
 
 
 
-<h3>Estatistiscas desse perfil:</h3>
+<h3>EProfile statistics:</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=raphael-rbbr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="raphael-rbbr"
