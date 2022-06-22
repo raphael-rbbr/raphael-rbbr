@@ -41,22 +41,19 @@
 <br>
 
 <h3>Profile statistics:</h3>
-<p><img align="left" width="45%"
+<p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=raphael-rbbr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="raphael-rbbr"
     bg_color=#808080/></p>
 
-<p>&nbsp;<img align="right" width="50%"
-src="https://github-readme-stats.vercel.app/api?username=raphael-rbbr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphael-rbbr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="raphael-rbbr" /></p>
 
 <br>
-<br>
-<br>
-<br>
 
-<p><img align="left"
-src="https://github-readme-streak-stats.herokuapp.com/?user=raphael-rbbr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="raphael-rbbr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raphael-rbbr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="raphael-rbbr" /></p>
 
 
 <!--
