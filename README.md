@@ -1,7 +1,6 @@
-<h1 align="center">Hello There! My name is Raphael Resende Breitschaft and i welcome you to my profile
-<br>
-<br>
-<img alt="GIF" src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" height="100" />
+<h1 align="center">
+<img alt="GIF" src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" height="30" />
+Hello There! My name is Raphael Resende Breitschaft and i welcome you to my profile
 </h1>
 
 
