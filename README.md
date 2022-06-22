@@ -4,6 +4,15 @@
 <br>
 
 
+<h1> A bit of history</h1>
+	Born at the faraway year of 1995, at the end of the previous millennium, i have spend my time on this planet studding economy, but changed to law. After becoming a lawyer, i realized my happiness laid elsewhere. So i decided to go back to a old lover, programming! I went to Le Wagon, for i belied they would be best suited for teaching me, and here we are!
+	Now a full stack developer, I present myself for all the net to see me. I welcome you here, hope you’re having a good time, and is happy, if not, do as the Queen song suggest and : “ Just give me a call ” (Don't stop me now).
+
+
+
+<br>
+<br>
+
 <h3 align="left">You can find me on all of this places:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/raphael-resende-breitschaft-426685163/" target="blank"><img align="center"
