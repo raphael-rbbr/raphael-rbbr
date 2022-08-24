@@ -22,16 +22,16 @@
 
 <h3 align="left">You can find me on all of this places:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/raphael-resende-breitschaft-426685163/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/raphael-resende-breitschaft-426685163/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="raphael-resende-breitschaft-426685163/" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/raphael.breitschaft" target="blank"><img align="center"
+  <a href="https://www.facebook.com/raphael.breitschaft" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="raphael.breitschaft" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/batuta_rb/" target="blank"><img align="center"
+  <a href="https://www.instagram.com/batuta_rb/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="batuta_rb" height="30" width="40" /></a>
- <a href="https://twitter.com/batuta_rb" target="blank"><img align="center"
+ <a href="https://twitter.com/batuta_rb" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="batuta_rb" height="30" width="40" /></a>
 </p>
