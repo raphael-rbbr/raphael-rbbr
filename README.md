@@ -16,6 +16,9 @@
 	Now a full stack developer, I present myself for all the net to see me. I welcome you here, hope you’re having a good time, and is happy, if not, do as the Queen song suggest and : “ Just give me a call ” (Don't stop me now).
 
 
+  Currently working part-time at Pupil, using AzuraDev. Thats why my pushes have "stoped"
+   <a href="https://www.coractium.com/pupil" target="blank">Check Pupil here!</a>
+
 
 <br>
 <br>
