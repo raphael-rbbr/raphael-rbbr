@@ -14,7 +14,8 @@
 
 <br>
 <br>
-  Currently working part-time at Pupil, using AzuraDev. Thats why my pushes have "stoped"
+
+  currently working part-time at pupil, we were using azuradev, that's why my pushes have "stopped" for a while. but now i`m back! managed to convince my boss to move back to here.
    <a href="https://www.coractium.com/pupil" target="blank">Check Pupil here!</a>
 
 
