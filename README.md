@@ -7,7 +7,7 @@ My name is Raphael Resende Breitschaft, Full stack developer, and i welcome you 
 
 
 
-<h1> A bit of history</h1>
+<h3> A bit of history</h3>
 
   Born at the end of the previous millennium, i have spend my time on this planet studding a bit economy and graduated at law. After finishing college, i realized my happiness laid elsewhere, so i decided to go back to an old flame, programming! Studied at Le Wagon web dev course and here we are!
   <br>
