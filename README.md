@@ -16,8 +16,8 @@ My name is Raphael Resende Breitschaft, Full stack developer, and i welcome you 
 <br>
 <br>
 
-  currently working part-time at Coractium, we were using azuradev, that's why my pushes have "stopped" for a while. But now we're back to git.
-   <a href="https://www.coractium.com/quem-somos" target="blank">Coractium</a>
+  currently working part-time at Coractium, we were using azuradev, that's why my pushes have "stopped" for a while. But now we're back to git.<br>
+   <a href="https://www.coractium.com/quem-somos" target="blank">Check it out at Coractium</a>
 
 
 <br>
