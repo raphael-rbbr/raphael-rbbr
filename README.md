@@ -15,9 +15,9 @@ My name is Raphael Resende Breitschaft, Full stack developer, and i welcome you 
 
 <br>
 <br>
-
-  currently working part-time at Coractium, we were using azuradev on the company account, that's why my pushes have void. But now we're back to git.<br>
-   <a href="https://www.coractium.com/quem-somos" target="blank">Check it out at Coractium</a>
+  Just moved from Rio de Janeiro – Brazil   to Berlin – Germany and I'm seeking a job here. Previously worked part-time at Coractium, but had to stop due to me moving to a different continent, as my payment was conditional to my residence in Brazil.
+<br>
+   <a href="https://www.coractium.com/quem-somos" target="blank">Check out Coractium</a>
 
 
 <br>
