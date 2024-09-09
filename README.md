@@ -1,6 +1,6 @@
 <h1 align="center">Hello There!
 <!-- <img alt="GIF" src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" height="50" /><br><br><br> -->
-My name is Raphael Resende Breitschaft, Full stack developer, and i welcome you to my profile
+My name is Raphael Resende Breitschaft, Full stack developer.
 </h1>
 
 
@@ -8,15 +8,18 @@ My name is Raphael Resende Breitschaft, Full stack developer, and i welcome you 
 
 
 <h3> A bit of history</h3>
-
   Born at the end of the previous millennium, i have spend my time on this planet studding a bit economy and graduated at law. After finishing college, i realized my happiness laid elsewhere, so i decided to go back to an old flame, programming! Studied at Le Wagon web dev course and here we are!
   <br>
-  I welcome you here, hope you’re having a good time, and is happy, if not, do as the Queen song suggest and : “ Just give me a call ” (Don't stop me now).
 
 <br>
 <br>
   Just moved from Rio de Janeiro – Brazil   to Berlin – Germany and I'm seeking a job here. Previously worked part-time at Coractium, but had to stop due to me moving to a different continent, as my payment was conditional to my residence in Brazil.
+
 <br>
+  As it shows i had to stop my pushes for the previous months because after moving to Berlin I had to adjust all aspects of my life here, issuing new documents, finding new apartment.
+
+<br>
+
    <a href="https://www.coractium.com/quem-somos" target="blank">Check out Coractium</a>
 
 
