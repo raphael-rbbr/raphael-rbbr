@@ -13,7 +13,7 @@ My name is Raphael Resende Breitschaft, Full stack developer.
 
 <br>
 <br>
-  Just moved from Rio de Janeiro – Brazil   to Berlin – Germany and I'm seeking a job here. Previously worked part-time at Coractium, but had to stop due to me moving to a different continent, as my payment was conditional to my residence in Brazil.
+  Just moved from Rio de Janeiro – Brazil   to Berlin – Germany and I'm seeking a job here. Previously worked at Coractium, but had to stop due to me moving to a different continent, as my payment was conditional to my residence in Brazil.
 
 <br>
   As it shows i had to stop my pushes for the previous months because after moving to Berlin I had to adjust all aspects of my life here, issuing new documents, finding new apartment.
