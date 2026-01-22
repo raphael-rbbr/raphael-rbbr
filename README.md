@@ -8,12 +8,12 @@ My name is Raphael Resende Breitschaft, Full stack developer with focus on front
 
 
 <h3> A bit of history</h3>
-  Born at the end of the previous millennium, i have spend my time on this planet studding a bit economy and graduated at law. After finishing college, i realized my happiness laid elsewhere, so i decided to go back to an old flame, programming! Studied at Le Wagon web dev course and here we are!
+  Born at the end of the previous millennium, i have spend my time on this planet studding a bit economy and graduated at law. After finishing college i decided to turn my focus to programming! Studied at Le Wagon web dev and worked at a sicenc startup    <a href="https://www.coractium.com/quem-somos" target="blank"> Coractium</a>.
   <br>
 
 <br>
 <br>
-  Just moved from Rio de Janeiro – Brazil   to Berlin – Germany and I'm seeking a job here. Previously worked at Coractium, but had to stop due to me moving to a different continent, as my payment was conditional to my residence in Brazil.
+   Moved from Rio de Janeiro – Brazil   to Berlin – Germany and I'm seeking a job here. As stated, previously worked at Coractium, but had to stop due to me moving to a different continent, as my payment was conditional to my residence in Brazil.
 
 <br>
   As it shows i had to stop my pushes for the previous months because after moving to Berlin I had to adjust all aspects of my life here, issuing new documents, finding new apartment.
